@@ -90,6 +90,7 @@ z-index
   border: none;
   outline: none;
   background-color: #5adc9c;
+  color: white;
 }
 #clear {
   border-radius: 50%;
@@ -101,6 +102,7 @@ z-index
   border: none;
   outline: none;
   background-color: #c51f41;
+  color: white;
 }
 
 @media all and (max-width: 390px) {
